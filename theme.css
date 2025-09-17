@@ -1,4 +1,3 @@
-/* --- 1. CSS Variables for Theming --- */
 :root {
     --primary-color: #4A90E2;      /* A nice blue */
     --background-color: #F4F7FC;  /* Light grey-blue */
@@ -132,3 +131,4 @@ body {
         box-shadow: 0 0 30px var(--hero-sun-color);
     }
 }
+
